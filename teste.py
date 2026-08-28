@@ -6,5 +6,5 @@ print(f"seu nome é {nome} e você tem {idade} anos")
 
 
 
-
-print("ola mundo")
+ola = ola_mundo
+print(ola)
